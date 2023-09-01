@@ -2,5 +2,5 @@
 Guess the American 50 states with tkinter visualization
 
 
-<img src="result_1.PNG" scale=50%>  <img src="result_2.PNG">
+<img src="result_1.PNG" width=300 height=auto>  <img src="result_2.PNG">
 
